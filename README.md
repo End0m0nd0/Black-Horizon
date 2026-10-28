@@ -14,25 +14,24 @@
 
 ## 📸 Screenshots
 
-<!-- Replace the placeholder links below with real screenshots, e.g. Docs/Screenshots/main-menu.png -->
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://placehold.co/640x360/1a1a2e/ffffff?text=Main+Menu" alt="Main Menu" width="100%"><br>
+      <img src="ScreenShots/MainMenu.png" alt="Main Menu" width="100%"><br>
       <b>Main Menu</b>
     </td>
     <td align="center" width="50%">
-      <img src="https://placehold.co/640x360/1a1a2e/ffffff?text=Tutorial" alt="Tutorial" width="100%"><br>
+      <img src="ScreenShots/Tutorial.png" alt="Tutorial" width="100%"><br>
       <b>Tutorial</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://placehold.co/640x360/1a1a2e/ffffff?text=Slot+Machine" alt="Slot Machine" width="100%"><br>
+      <img src="ScreenShots/SlotMachine.png" alt="Slot Machine" width="100%"><br>
       <b>Slot Machine</b>
     </td>
     <td align="center" width="50%">
-      <img src="https://placehold.co/640x360/1a1a2e/ffffff?text=Enemies" alt="Enemies" width="100%"><br>
+      <img src="ScreenShots/Enemies.png" alt="Enemies" width="100%"><br>
       <b>Enemies</b>
     </td>
   </tr>
