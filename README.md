@@ -9,8 +9,34 @@
 
 ## 🎥 Gameplay Showcase
 
-[![Game Gameplay](https://img.youtube.com/vi/TWOJ_LINK_DO_YOUTUBE/hqdefault.jpg)](https://www.youtube.com/watch?v=TWOJ_LINK_DO_YOUTUBE)<br>
+[![Black Horizon Gameplay](https://img.youtube.com/vi/VUR8aDKn-kY/hqdefault.jpg)](https://youtu.be/VUR8aDKn-kY)<br>
 *(Click the image above to watch the gameplay video on YouTube)*
+
+## 📸 Screenshots
+
+<!-- Replace the placeholder links below with real screenshots, e.g. Docs/Screenshots/main-menu.png -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://placehold.co/640x360/1a1a2e/ffffff?text=Main+Menu" alt="Main Menu" width="100%"><br>
+      <b>Main Menu</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://placehold.co/640x360/1a1a2e/ffffff?text=Tutorial" alt="Tutorial" width="100%"><br>
+      <b>Tutorial</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://placehold.co/640x360/1a1a2e/ffffff?text=Slot+Machine" alt="Slot Machine" width="100%"><br>
+      <b>Slot Machine</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://placehold.co/640x360/1a1a2e/ffffff?text=Enemies" alt="Enemies" width="100%"><br>
+      <b>Enemies</b>
+    </td>
+  </tr>
+</table>
 
 ## 💡 About the Project
 
