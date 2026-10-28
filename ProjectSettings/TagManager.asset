@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Key
+  - ChestTag
+  - Attack
+  - JumpThroughPlatform
+  - Enemy
+  - Pickable
+  - EffectsManager
+  - Camera
+  - Hittable
+  - TutorialCrab
+  - Shop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - TotemPices
+  - Ammo
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 897874611
+    locked: 0
+  - name: BackgroundDecorations
+    uniqueID: 3491499219
+    locked: 0
+  - name: Ground
+    uniqueID: 873105117
+    locked: 0
+  - name: Decorations
+    uniqueID: 1887928761
+    locked: 0
+  - name: DecorationEffects
+    uniqueID: 1549019861
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Players
+    uniqueID: 1183245681
+    locked: 0
+  - name: Effect
+    uniqueID: 3766571507
+    locked: 0
+  - name: Foreground
+    uniqueID: 321634147
+    locked: 0
+  - name: SecretRoom
+    uniqueID: 922466829
+    locked: 0
+  - name: Dialogue
+    uniqueID: 3336056735
+    locked: 0
+  - name: UI
+    uniqueID: 1482529749
+    locked: 0
