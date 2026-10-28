@@ -9,7 +9,7 @@
 
 ## 🎥 Gameplay Showcase
 
-[![Black Horizon Gameplay](https://img.youtube.com/vi/VUR8aDKn-kY/hqdefault.jpg)](https://youtu.be/VUR8aDKn-kY)<br>
+[![Black Horizon Gameplay](https://img.youtube.com/vi/kWQWhFCNo3g/hqdefault.jpg)](https://youtu.be/kWQWhFCNo3g)<br>
 *(Click the image above to watch the gameplay video on YouTube)*
 
 ## 📸 Screenshots
