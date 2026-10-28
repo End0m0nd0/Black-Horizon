@@ -10,7 +10,7 @@
 ## 🎥 Gameplay Showcase
 
 [![Game Gameplay](https://img.youtube.com/vi/TWOJ_LINK_DO_YOUTUBE/hqdefault.jpg)](https://www.youtube.com/watch?v=TWOJ_LINK_DO_YOUTUBE)<br>
-*(Click the image above to watch the gameplay video on YouTube*
+*(Click the image above to watch the gameplay video on YouTube)*
 
 ## 💡 About the Project
 
@@ -23,7 +23,8 @@ The game offers a dynamic platforming experience with a variety of movement mech
 * **Enemy AI:** Programmed AI behaviors for both melee and ranged enemies, offering diverse combat challenges.
 * **Advanced Movement:** Fluid character controller featuring abilities like **double jump** and **dash**.
 * **Dynamic Environments:** Levels built using Unity's **Tilemap** system, featuring interactive elements like trampolines, moving platforms, and disappearing platforms.
-* **Game Systems:** * A robust **Save System** to keep track of player progress.
+* **Game Systems:**
+  * A robust **Save System** to keep track of player progress.
   * Comprehensive and polished **UI / GUI** menus.
   * A custom **Dialogue System** for storytelling and NPC interactions.
 * **Collectibles:** Various hidden items to collect throughout the levels.
@@ -31,7 +32,7 @@ The game offers a dynamic platforming experience with a variety of movement mech
 
 ## 🛠️ Technologies & Tools
 
-* **Game Engine:** Unity 2D
+* **Game Engine:** Unity 2022.3.46f1 (LTS), 2D
 * **Programming Language:** C#
 * **Level Design:** Unity Tilemap System
 * **UI/UX:** Unity UI
@@ -42,14 +43,44 @@ This project was brought to life by an amazing 4-person team from the XRG depart
 
 * **[Dawid Juszyński (VeeturN)](https://github.com/VeeturN)** - Developer 
 * **[Olaf Mickiewicz (Nick 2)](https://github.com/link_do_githuba)** - Developer
-* **[Jędrzej Nowakowski (Nick 3)](https://github.com/link_do_githuba)** - Developer
+* **[Jędrzej Nowakowski (End0m0nd0)](https://github.com/End0m0nd0)** - Developer
 * **[Aleks Winiarczuk (Nick 4)](https://github.com/link_do_githuba)** - Developer
 
 ## 🎓 Credits
 A special thanks to the **Polsko-Japońska Akademia Technik Komputerowych (PJATK)** in Warsaw, specifically the **XRG Department**, for providing the knowledge and environment to build this project as part of the PRO 1 course curriculum.
 
-## 🚀 How to Play / Run the Project
+## 🚀 How to Run the Project
 
+### Requirements
+* [Git](https://git-scm.com/downloads)
+* [Unity Hub](https://unity.com/download)
+* **Unity 2022.3.46f1 (LTS)** – the editor version this project was made with. Other 2022.3.x LTS versions should also work.
+
+### Steps
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/VeeturN/2025_13c_01_6week.git](https://github.com/VeeturN/2025_13c_01_6week.git)
+   git clone https://github.com/End0m0nd0/Black-Horizon.git
+   ```
+2. Open **Unity Hub**, go to **Projects → Add → Add project from disk** and select the cloned `Black-Horizon` folder.
+3. If Unity 2022.3.46f1 is not installed, Unity Hub will offer to install it – accept, or pick another 2022.3.x version you already have.
+4. Open the project. The first launch can take a few minutes while Unity imports assets and generates the `Library` folder.
+5. In the **Project** window open the scene `Assets/Scenes/MainMenu.unity`.
+6. Press **▶ Play** in the editor to start the game from the main menu.
+
+### Building a standalone version
+1. Go to **File → Build Settings…**
+2. Make sure `MainMenu` is the first scene in the *Scenes In Build* list.
+3. Pick your target platform (e.g. *Windows, Mac, Linux*) and click **Build**.
+
+## 🎮 Controls
+
+| Action | Key |
+| --- | --- |
+| Move | `A` / `D` or `←` / `→` |
+| Jump / Double jump | `Space` |
+| Dash (in the air) | `Left Shift` |
+| Melee attack | `Left Mouse Button` |
+| Ranged attack | `Right Mouse Button` |
+| Use inventory item | `1` – `4` |
+| Interact | `E` |
+| Pause menu | `Esc` |
